@@ -1,5 +1,5 @@
-# chirrosisprediction
-## Decision Tree Classifier for Chirrosis Prediction
+# cirrhosisprediction
+## Decision Tree Classifier for Cirrhosis Prediction
 
 ### Assignment Group 14 - Artificial Intelligence DTETI FT UGM
 *   Elza Natali Wijaya      (20/460542/TK/51131)
